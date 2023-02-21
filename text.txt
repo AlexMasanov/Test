@@ -1,7 +1,6 @@
 qwe
 rty
 123
-привет
-привет еще
-Алекс
+
 new line
+gui new
