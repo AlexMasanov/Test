@@ -5,3 +5,4 @@ rty
 new line
 gui new
 q
+w
